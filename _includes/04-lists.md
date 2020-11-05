@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My Favourites:
+ 1. Computer Science
+ 2. Politics
+ 3. Theology
